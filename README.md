@@ -4,4 +4,4 @@ The original respository is here: https://github.com/adafruit/Adafruit_Learning_
 
 This code is quite a bit different as it runs as a gui and the timeing is event based.
 
-The code has only been teested on a Raspberry Pi model B Rev 2.
+The code has only been tested on a Raspberry Pi model B Rev 2.
